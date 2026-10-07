@@ -1,2 +1,6 @@
 <html></html>
+<<<<<<< HEAD
 Opis neki v2
+=======
+Opis neki v3
+>>>>>>> abb7350c95f863c70c4895f3052ddbf281024a3c
